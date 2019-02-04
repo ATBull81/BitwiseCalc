@@ -1,0 +1,9 @@
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\bin\Debug\Ksu.Cis300.HwCalculator.exe.config
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\bin\Debug\Ksu.Cis300.HwCalculator.exe
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\bin\Debug\Ksu.Cis300.HwCalculator.pdb
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\obj\Debug\Ksu.Cis300.HwCalculator.csprojResolveAssemblyReference.cache
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\obj\Debug\Ksu.Cis300.HwCalculator.Form1.resources
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\obj\Debug\Ksu.Cis300.HwCalculator.Properties.Resources.resources
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\obj\Debug\Ksu.Cis300.HwCalculator.csproj.GenerateResource.Cache
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\obj\Debug\Ksu.Cis300.HwCalculator.exe
+c:\users\alec\documents\visual studio 2015\Projects\Ksu.Cis300.HwCalculator\Ksu.Cis300.HwCalculator\obj\Debug\Ksu.Cis300.HwCalculator.pdb
